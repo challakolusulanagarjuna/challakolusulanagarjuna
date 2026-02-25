@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @challakolusulanagarjuna
-- 👀 I’m interested in learning new things , want to create a carrer in the database  
-- 🌱 I’m currently learning pythn, MS SQL sever , MY SQL
-- 💞️ I’m looking to collaborate the companies with my knowledge in the python and ms sql server
+- 👀 I’m MS CRM Developer having 4+ years  of experience  
+- 🌱 I’m having plugin codes and java script codes snippets available from my developments
+- 💞️ I’m looking to collaborate the companies with my knowledge in the MS CRM , Plugins , C# , JavaScript, Power BI, SQL
 - 📫 Reach me out Gmail: nag33358@gmail.com
 - Ph no : (+91) 9063747466
 - 
